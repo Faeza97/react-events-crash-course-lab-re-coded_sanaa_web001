@@ -50,4 +50,3 @@ export default class ChromeBoisDomain extends Component {
     )
   }
 }
-© 2021 GitHub, Inc.
